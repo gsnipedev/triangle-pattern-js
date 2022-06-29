@@ -98,3 +98,5 @@ for (let index = 0; index <= 9; index++) {
       break;
   }
 }
+
+console.log("\n Program End, Have a nice day! >//< -dika");
