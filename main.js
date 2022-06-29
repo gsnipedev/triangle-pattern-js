@@ -99,4 +99,4 @@ for (let index = 0; index <= 9; index++) {
   }
 }
 
-console.log("\n Program End, Have a nice day! >//< -dika");
+console.log("\n Program End, Have a nice day! >///< -dika");
